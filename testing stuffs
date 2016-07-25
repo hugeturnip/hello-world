@@ -1,0 +1,3 @@
+function battleHax(string) {
+return (string) + ("'s attack missed! The opposing Talonflame used Brave Bird! Its a critical hit! ") + (string) + (' lost all of its health! ') + (string) + (' fainted!')
+}
